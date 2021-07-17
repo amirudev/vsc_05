@@ -1,4 +1,10 @@
-"# vsc_05" 
+# Virtual Skill Competition 17 July 2021
 
-# Pattern
-Diamond Pattern [ 17/07/2021 - 09:41 ]
+- Pattern
+- Image Slider
+- Doorprize Winner
+- PHP Calculator
+
+NOT COMPLETED
+
+- 3D Card
